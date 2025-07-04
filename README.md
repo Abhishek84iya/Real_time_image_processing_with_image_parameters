@@ -1,6 +1,6 @@
 This Project was done by - 
-Malay Choudhary
-Abhishek Chauraisia
+Malay Choudhary - https://github.com/Cha0t1cG0D
+Abhishek Chauraisia - 
 CJ Raghul
 Yashraj Singh Rathour
 
