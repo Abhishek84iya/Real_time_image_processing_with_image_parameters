@@ -8,3 +8,8 @@ CJ Raghul
 
 
 Output Demonstration
+![IMG-20250719-WA0006](https://github.com/user-attachments/assets/b2909e00-96e8-4715-89c9-3904b65b4a2f)
+
+      
+Latency 
+![IMG20250719172115](https://github.com/user-attachments/assets/158a5102-1431-4276-bc2e-c31d5ef144ed)
